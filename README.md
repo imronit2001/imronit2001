@@ -1,5 +1,5 @@
 <div align="center">
-<!-- <img src="" align="center" /> -->
+<img src="assets/ronit.png" align="center" />
 </div>  
   
 <br/>
