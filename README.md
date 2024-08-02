@@ -1,19 +1,20 @@
-<div align="center">
-<img src="assets/ronit.png" align="center" />
-</div>  
-  
-<br/>
 
-### <div align="center">I'm Ronit, a Full Stack Web Developer</div>
-
-- 🔭 I’m currently working as an intern at [Mitra Fintech](https://github.com/mitra-Fintech)
-
-- 🌱 I’m currently learning MERN Stack
-
-<br/>
+![Logo](https://raw.githubusercontent.com/imronit2001/imronit2001/master/assets/ronit.png)
 
 
-## My Skill Set
+
+# 👋 Hi, I'm RONIT SINGH
+
+I am a passionate Full Stack Web Developer with over 2 years of experience. Currently, I am working as a Software Developer at Triophase Global Pvt Ltd.
+
+## 🎓 Education
+
+| Degree   | Institution                    | Year | University | CGPA |
+|----------|--------------------------------|------|------------|------|
+| M.C.A    | Techno College Hooghly         | 2024 | M.A.K.A.U.T| 9.13 |
+| B.C.A    | Techno India Hooghly Campus    | 2022 | M.A.K.A.U.T| 9.71 |
+
+## 🛠️ Technical Skills
 
 <table><tr><td valign="top" width="33%">
 
@@ -52,25 +53,47 @@
 <img style="margin: 10px" src="assets/dsa.png" alt="DSA" height="50" />
 </div></td></tr></table>
 
-<br/>
+### Programming Languages:
+- C
+- C++
+- Java
+- Python
 
+### Web Development:
+- **Frontend Development:** Html, Css, Javascript, React.JS, Next.JS, Bootstrap, Tailwind Css, Jquery
+- **Backend Development:** PHP, Laravel, Django, Express Js, Node Js
+- **Databases:** MySQL, MongoDB, Firebase
 
-## Connect with me
+### DevOps:
+- Git
+- Github
+- Linux
+- Hostinger
 
-<div align="center">
-<a href="https://github.com/imronit2001" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/imronit1703" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/imronit/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ronitsinghrajput7" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+### Microsoft Office:
+- Word, Excel, Powerpoint (2007, 2013, 2019, 365)
 
+## 💼 Work Experience
 
-<br/>
+### Triophase Global Pvt Ltd. (Feb 2024 – Present)
+- **Role:** Software Developer
+- **Skillset:** PHP, MySQL, Next.Js, Jquery, Bootstrap, Docker
+
+### Nextgen Techno Ventures Pvt Ltd. (May 2022 – Feb 2024)
+- **Role:** PHP Intern, SDE Trainee, Web Team Lead
+- **Skillset:** PHP, Laravel, Django, MySQL, Firebase, MERN, Jquery, Tailwind Css, Bootstrap
+- **Responsibilities:**
+  - Creating Responsive Web Pages
+  - Developing Restful APIs
+  - Integrating APIs
+  - Database Management
+  - Upgrading Codes
+  - Project Deployment
+  - Conducting Interviews
+
+## 📫 How to reach me
+- Email: ronitsingh7003@gmail.com
+- LinkedIn: https://www.linkedin.com/in/imronit/
+- Portfolio: https://imronit.in/
+
+Feel free to explore my repositories and get in touch!
