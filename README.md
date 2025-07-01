@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm RONIT SINGH
 
-I am a passionate Full Stack Web Developer with over 2 years of experience. Currently, I am working as a Software Developer at Triophase Global Pvt Ltd.
+I am a passionate Full Stack Web Developer with over 3 years of experience. Currently, I am working as a Software Developer at Triophase Global Pvt Ltd.
 
 ## 🎓 Education
 
@@ -61,7 +61,7 @@ I am a passionate Full Stack Web Developer with over 2 years of experience. Curr
 
 ### Web Development:
 - **Frontend Development:** Html, Css, Javascript, React.JS, Next.JS, Bootstrap, Tailwind Css, Jquery
-- **Backend Development:** PHP, Laravel, Django, Express Js, Node Js
+- **Backend Development:** PHP, Laravel, Hyperbase[PHP-custom framework], Django, Express Js, Node Js
 - **Databases:** MySQL, MongoDB, Firebase
 
 ### DevOps:
@@ -69,6 +69,7 @@ I am a passionate Full Stack Web Developer with over 2 years of experience. Curr
 - Github
 - Linux
 - Hostinger
+- Docker
 
 ### Microsoft Office:
 - Word, Excel, Powerpoint (2007, 2013, 2019, 365)
